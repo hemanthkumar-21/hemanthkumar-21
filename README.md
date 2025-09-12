@@ -45,19 +45,19 @@
 
 # 📊 GitHub Stats:
 
-![](https://komarev.com/ghpvc/?username=Hemu21&abbreviated=true) <br/>
-<a href="https://github.com/Hemu21">
-![](https://github-readme-stats.vercel.app/api?username=Hemu21&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemu21&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hemu21&theme=blue-green&hide_border=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hemu21&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hemu21&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hemu21&theme=blue_green&utcOffset=8)
+![](https://komarev.com/ghpvc/?username=hemanthkumar-21&abbreviated=true) <br/>
+<a href="https://github.com/hemanthkumar-21">
+![](https://github-readme-stats.vercel.app/api?username=hemanthkumar-21&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumar-21&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hemanthkumar-21&theme=blue-green&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemanthkumar-21&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemanthkumar-21&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hemanthkumar-21&theme=blue_green&utcOffset=8)
 <br/>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Hemu21&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=hemanthkumar-21&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
@@ -65,11 +65,11 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Hemu21&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=hemanthkumar-21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 💰 You can help me by Donating
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hemu21) [![Sponser Me](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#black)](https://github.com/sponsors/Hemu21) <br/>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hemanthkumar-21) [![Sponser Me](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#black)](https://github.com/sponsors/hemanthkumar-21) <br/>
 
 <h1 align="center"> Fork 🍴 to create yours :star2: to support. Happy Coding 😉 </h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
