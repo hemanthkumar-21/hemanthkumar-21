@@ -12,7 +12,7 @@
 - 🌱 Currently Learning <b> Blockchain </b>
 - 🌱 Pursuing <b>B.Tech Final Year</b>
 - 👯 I’m looking to collaborate on Full Stack projects
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hemu21/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/hemanthkumar-21)
 - 💬 Ask me about **MERN stack, React Native , Solidity**
 - 📫 How to reach me **gujjalahemanthkumar789@gmail.com**
 
