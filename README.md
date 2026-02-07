@@ -47,9 +47,9 @@
 
 ![](https://komarev.com/ghpvc/?username=hemanthkumar-21&abbreviated=true) <br/>
 <a href="https://github.com/hemanthkumar-21">
-![](https://github-readme-stats.vercel.app/api?username=hemanthkumar-21&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumar-21&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hemanthkumar-21&theme=blue-green&hide_border=true)
+![](https://github-readme-stats-fast.vercel.app/api?username=hemanthkumar-21&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hemanthkumar-21&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats-fast.vercel.app/api/streak/?username=hemanthkumar-21&theme=blue-green&hide_border=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemanthkumar-21&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemanthkumar-21&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hemanthkumar-21&theme=blue_green&utcOffset=8)
