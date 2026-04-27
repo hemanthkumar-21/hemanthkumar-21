@@ -9,12 +9,10 @@
 <img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" />
 
 - 🔭 I'm a <b> Full-Stack(MERN) web developer</b> & <b>React Native Mobile Developer </b>
-- 🌱 Currently Learning <b> Blockchain </b>
-- 🌱 Pursuing <b>B.Tech Final Year</b>
 - 👯 I’m looking to collaborate on Full Stack projects
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/hemanthkumar-21)
 - 💬 Ask me about **MERN stack, React Native , Solidity**
-- 📫 How to reach me **gujjalahemanthkumar789@gmail.com**
+- 📫 How to reach me **hemanthkumar.gujjalla@gmail.com**
 
 ## 🌐 Socials:
 
